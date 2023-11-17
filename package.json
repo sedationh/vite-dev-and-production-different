@@ -12,8 +12,10 @@
   },
   "dependencies": {
     "ahooks": "^3.7.8",
+    "build": "file:build",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "rollup": "^4.4.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.18",
